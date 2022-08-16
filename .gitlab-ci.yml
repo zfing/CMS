@@ -1,0 +1,31 @@
+image: ssskip/docker-node
+
+stages:
+  - build-package
+  - deploy-package
+  - deploy-notify
+
+
+include:
+  - local: ci/dev.frontend.yml
+  - local: ci/mars.frontend.yml
+  - local: ci/prod.frontend.yml
+
+################################################################################
+
+deploy failure notify:
+  stage: deploy-notify
+  image: python:3.6.13-alpine
+  before_script:
+    - pip install requests
+  script:
+    - echo "Send release result to wechatbot"
+    - python /data/condocs/script/send_wechat_frontend.py "FAIL"
+  when: on_failure
+  only:
+    - /^MOON.FE.R.*$/
+    - /^MARS.FE.R.*$/
+    - /^FIX.FE.R.*$/
+    - /^PP.FE.R.*$/
+  tags:
+    - cygnus

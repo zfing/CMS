@@ -1,0 +1,1018 @@
+[{
+    "t": "English",
+    "v": "english"
+}, {
+    "t": "Chinese (Mandarin)",
+    "v": "chinese"
+}, {
+    "t": "French",
+    "v": "french"
+}, {
+    "t": "Spanish",
+    "v": "spanish"
+}, {
+    "t": "Portuguese",
+    "v": "portuguese"
+}, {
+    "t": "German",
+    "v": "german"
+}, {
+    "t": "Japanese",
+    "v": "japanese"
+}, {
+    "t": "Korean",
+    "v": "korean"
+}, {
+    "t": "Arabic",
+    "v": "arabic"
+}, {
+    "t": "Hindi",
+    "v": "hindi"
+}, {
+    "t": "Italian",
+    "v": "italian"
+}, {
+    "t": "Russian",
+    "v": "russian"
+}, {
+    "t": "Afrikaans",
+    "v": "afrikaans"
+}, {
+    "t": "Akan Twi",
+    "v": "akantwi"
+}, {
+    "t": "Albanian",
+    "v": "albanian"
+}, {
+    "t": "Amharic",
+    "v": "amharic"
+}, {
+    "t": "Armenian",
+    "v": "armenian"
+}, {
+    "t": "Azeri",
+    "v": "azeri"
+}, {
+    "t": "Arabic (Modern Standard)",
+    "v": "arabic(modernstandard)"
+}, {
+    "t": "Arabic (Egyptian)",
+    "v": "arabic(egyptian)"
+}, {
+    "t": "Arabic (Gulf)",
+    "v": "arabic(gulf)"
+}, {
+    "t": "Arabic(Sudanese)",
+    "v": "arabic(sudanese)"
+}, {
+    "t": "Arabic (Maghrebi)",
+    "v": "arabic(maghrebi)"
+}, {
+    "t": "Arabic (Levantine)",
+    "v": "arabic(levantine)"
+}, {
+    "t": "Alsatian",
+    "v": "alsatian"
+}, {
+    "t": "Assamese",
+    "v": "assamese"
+}, {
+    "t": "Aiki (Runga)",
+    "v": "aiki(runga)"
+}, {
+    "t": "Ainu",
+    "v": "ainu"
+}, {
+    "t": "Aragonese",
+    "v": "aragonese"
+}, {
+    "t": "Aramaic",
+    "v": "aramaic"
+}, {
+    "t": "Argentine Sign Language",
+    "v": "argentinesignlanguage"
+}, {
+    "t": "Aromanian",
+    "v": "aromanian"
+}, {
+    "t": "Assiniboine (Nakota)",
+    "v": "assiniboine(nakota)"
+}, {
+    "t": "Austrian German",
+    "v": "austriangerman"
+}, {
+    "t": "Australian Sign Language (Auslan)",
+    "v": "australiansignlanguage(auslan)"
+}, {
+    "t": "Avar",
+    "v": "avar"
+}, {
+    "t": "Aymara",
+    "v": "aymara"
+}, {
+    "t": "Azerbaijani",
+    "v": "azerbaijani"
+}, {
+    "t": "Basque",
+    "v": "basque"
+}, {
+    "t": "Belait",
+    "v": "belait"
+}, {
+    "t": "Belarusian",
+    "v": "belarusian"
+}, {
+    "t": "Bengali",
+    "v": "bengali"
+}, {
+    "t": "Bosnian",
+    "v": "bosnian"
+}, {
+    "t": "Brazilian Sign Language (LIBRAS)",
+    "v": "braziliansignlanguage(libras)"
+}, {
+    "t": "Bulgarian",
+    "v": "bulgarian"
+}, {
+    "t": "Burmese",
+    "v": "burmese"
+}, {
+    "t": "Balochi",
+    "v": "balochi"
+}, {
+    "t": "Blackfoot (Niitsi'powahsin)",
+    "v": "blackfoot(niitsi)"
+}, {
+    "t": "Breton",
+    "v": "breton"
+}, {
+    "t": "Balinese",
+    "v": "balinese"
+}, {
+    "t": "Bago-Kusuntu",
+    "v": "bagokusuntu"
+}, {
+    "t": "Bagri",
+    "v": "bagri"
+}, {
+    "t": "Bambara (Bamanankan)",
+    "v": "bambara(bamanankan)"
+}, {
+    "t": "Banjar",
+    "v": "banjar"
+}, {
+    "t": "Barawana (Baré)",
+    "v": "barawana(bare)"
+}, {
+    "t": "Bari",
+    "v": "bari"
+}, {
+    "t": "Batak Toba",
+    "v": "bataktoba"
+}, {
+    "t": "Bats",
+    "v": "bats"
+}, {
+    "t": "Bavarian",
+    "v": "bavarian"
+}, {
+    "t": "Beja",
+    "v": "beja"
+}, {
+    "t": "Bhojpuri",
+    "v": "bhojpuri"
+}, {
+    "t": "Bislama",
+    "v": "bislama"
+}, {
+    "t": "Bugis",
+    "v": "bugis"
+}, {
+    "t": "Catalan",
+    "v": "catalan"
+}, {
+    "t": "Cebuano",
+    "v": "cebuano"
+}, {
+    "t": "Chewa (Chichewa)",
+    "v": "chewa"
+}, {
+    "t": "Chinese (Cantonese)",
+    "v": "chinese(cantonese)"
+}, {
+    "t": "Chinese (Hakka)",
+    "v": "chinese(hakka)"
+}, {
+    "t": "Chinese (Hokkien)",
+    "v": "chinese(hokkien)"
+}, {
+    "t": "Chinese (Shanghainese)",
+    "v": "chinese(shanghainese)"
+}, {
+    "t": "Chinese (Taiwanese)",
+    "v": "chinese(taiwanese)"
+}, {
+    "t": "Chinese (Other)",
+    "v": "chinese(other)"
+}, {
+    "t": "Croatian",
+    "v": "croatian"
+}, {
+    "t": "Czech",
+    "v": "czech"
+}, {
+    "t": "Cornish",
+    "v": "cornish"
+}, {
+    "t": "Corsican",
+    "v": "corsican"
+}, {
+    "t": "Cree",
+    "v": "cree"
+}, {
+    "t": "Cherokee",
+    "v": "cherokee"
+}, {
+    "t": "Chavacano",
+    "v": "chavacano"
+}, {
+    "t": "Chechen",
+    "v": "chechen"
+}, {
+    "t": "Chibarwe",
+    "v": "chibarwe"
+}, {
+    "t": "Chiquitano",
+    "v": "chiquitano"
+}, {
+    "t": "Choctaw",
+    "v": "choctaw"
+}, {
+    "t": "Chukchi",
+    "v": "chukchi"
+}, {
+    "t": "Chuwabu",
+    "v": "chuwabu"
+}, {
+    "t": "Coptic",
+    "v": "coptic"
+}, {
+    "t": "Crow",
+    "v": "crow"
+}, {
+    "t": "Danish",
+    "v": "danish"
+}, {
+    "t": "Dutch",
+    "v": "dutch"
+}, {
+    "t": "Dzongkha",
+    "v": "dzongkha"
+}, {
+    "t": "Dari",
+    "v": "dari"
+}, {
+    "t": "Dothraki",
+    "v": "dothraki"
+}, {
+    "t": "Daakaka",
+    "v": "daakaka"
+}, {
+    "t": "Dakota",
+    "v": "dakota"
+}, {
+    "t": "Daza",
+    "v": "daza"
+}, {
+    "t": "Dela-Oenale",
+    "v": "delaoenale"
+}, {
+    "t": "Dinka",
+    "v": "dinka"
+}, {
+    "t": "Domari",
+    "v": "domari"
+}, {
+    "t": "Dotyali",
+    "v": "dotyali"
+}, {
+    "t": "Drehu",
+    "v": "drehu"
+}, {
+    "t": "Esperanto",
+    "v": "esperanto"
+}, {
+    "t": "Estonian",
+    "v": "estonian"
+}, {
+    "t": "Erzya",
+    "v": "erzya"
+}, {
+    "t": "Ewe",
+    "v": "ewe"
+}, {
+    "t": "Ewondo (Fang)",
+    "v": "ewondo(fang)"
+}, {
+    "t": "Filipino (Tagalog)",
+    "v": "filipino(tagalog)"
+}, {
+    "t": "Finnish",
+    "v": "finnish"
+}, {
+    "t": "Flemish",
+    "v": "flemish"
+}, {
+    "t": "Faroese",
+    "v": "faroese"
+}, {
+    "t": "Frisian",
+    "v": "frisian"
+}, {
+    "t": "Fijian (ITaukei)",
+    "v": "fijian(itaukei)"
+}, {
+    "t": "Fon (Fon gbè)",
+    "v": "fon(fongbe)"
+}, {
+    "t": "Friulian",
+    "v": "friulian"
+}, {
+    "t": "Fulah",
+    "v": "fulah"
+}, {
+    "t": "Fur",
+    "v": "fur"
+}, {
+    "t": "Gaelic (Irish)",
+    "v": "gaelic(irish)"
+}, {
+    "t": "Gaelic (Scottish)",
+    "v": "gaelic(scottish)"
+}, {
+    "t": "Galician",
+    "v": "galician"
+}, {
+    "t": "Georgian",
+    "v": "georgian"
+}, {
+    "t": "Greek",
+    "v": "greek"
+}, {
+    "t": "Greek (Ancient)",
+    "v": "greek(ancient)"
+}, {
+    "t": "Greenlandic",
+    "v": "greenlandic"
+}, {
+    "t": "Gujarati",
+    "v": "gujarati"
+}, {
+    "t": "Ga",
+    "v": "ga"
+}, {
+    "t": "Guarani",
+    "v": "guarani"
+}, {
+    "t": "Gaelic (Manx)",
+    "v": "gaelic(manx)"
+}, {
+    "t": "Gallo",
+    "v": "gallo"
+}, {
+    "t": "Garifuna",
+    "v": "garifuna"
+}, {
+    "t": "Gikuyu",
+    "v": "gikuyu"
+}, {
+    "t": "Guambiano",
+    "v": "guambiano"
+}, {
+    "t": "Gullah",
+    "v": "gullah"
+}, {
+    "t": "Gullah (Afro-Seminole Creole)",
+    "v": "gullah(afroseminolecreole)"
+}, {
+    "t": "Haitian Creole",
+    "v": "haitiancreole"
+}, {
+    "t": "Hausa",
+    "v": "hausa"
+}, {
+    "t": "Hawaiian",
+    "v": "hawaiian"
+}, {
+    "t": "Hebrew",
+    "v": "hebrew"
+}, {
+    "t": "Hmong",
+    "v": "hmong"
+}, {
+    "t": "Hungarian",
+    "v": "hungarian"
+}, {
+    "t": "Hakka",
+    "v": "hakka"
+}, {
+    "t": "Hokkien",
+    "v": "hokkien"
+}, {
+    "t": "Hawaiian Pidgin (Hawaiian Creole English)",
+    "v": "hawaiianpidgin(hawaiiancreoleenglish)"
+}, {
+    "t": "Honduran Sign Language (LESHO)",
+    "v": "honduransignlanguage(lesho)"
+}, {
+    "t": "Icelandic",
+    "v": "icelandic"
+}, {
+    "t": "Indonesian",
+    "v": "indonesian"
+}, {
+    "t": "Igbo",
+    "v": "igbo"
+}, {
+    "t": "Inuktitut",
+    "v": "inuktitut"
+}, {
+    "t": "Iban",
+    "v": "iban"
+}, {
+    "t": "Ingush",
+    "v": "ingush"
+}, {
+    "t": "Inuinnaqtun",
+    "v": "inuinnaqtun"
+}, {
+    "t": "Inuvialuktun",
+    "v": "inuvialuktun"
+}, {
+    "t": "Ixcatec",
+    "v": "ixcatec"
+}, {
+    "t": "Ido",
+    "v": "ido"
+}, {
+    "t": "Javanese",
+    "v": "javanese"
+}, {
+    "t": "Japanese (Okinawan)",
+    "v": "japanese(okinawan)"
+}, {
+    "t": "Japanese Sign Language",
+    "v": "japanesesignlanguage"
+}, {
+    "t": "Jamaican Creole",
+    "v": "jamaicancreole"
+}, {
+    "t": "Judeo-Tat",
+    "v": "judeotat"
+}, {
+    "t": "Kannada",
+    "v": "kannada"
+}, {
+    "t": "Kazakh",
+    "v": "kazakh"
+}, {
+    "t": "Kinyarwanda",
+    "v": "kinyarwanda"
+}, {
+    "t": "Khmer (Cambodian)",
+    "v": "khmer"
+}, {
+    "t": "Klingon",
+    "v": "klingon"
+}, {
+    "t": "Kurdish",
+    "v": "kurdish"
+}, {
+    "t": "Kyrgyz",
+    "v": "kyrgyz"
+}, {
+    "t": "Kekchi (Q'eqchi')",
+    "v": "kekchi(qeqchi)"
+}, {
+    "t": "K’iche’",
+    "v": "kiche"
+}, {
+    "t": "Kachin (Jingpho)",
+    "v": "kachin(jingpho)"
+}, {
+    "t": "Kalanga ",
+    "v": "kalanga"
+}, {
+    "t": "Kalmyk Oirat",
+    "v": "kalmykoirat"
+}, {
+    "t": "Kanuri",
+    "v": "kanuri"
+}, {
+    "t": "Kenjeje",
+    "v": "kenjeje"
+}, {
+    "t": "Khmu",
+    "v": "khmu"
+}, {
+    "t": "Khoemana",
+    "v": "khoemana"
+}, {
+    "t": "Kirundi",
+    "v": "kirundi"
+}, {
+    "t": "Koisan (Tsoa)",
+    "v": "koisan(tsoa)"
+}, {
+    "t": "Konkani",
+    "v": "konkani"
+}, {
+    "t": "Lao",
+    "v": "lao"
+}, {
+    "t": "Latin",
+    "v": "latin"
+}, {
+    "t": "Latvian",
+    "v": "latvian"
+}, {
+    "t": "Lithuanian",
+    "v": "lithuanian"
+}, {
+    "t": "Luganda",
+    "v": "luganda"
+}, {
+    "t": "Luo",
+    "v": "luo"
+}, {
+    "t": "Luxembourgish",
+    "v": "luxembourgish"
+}, {
+    "t": "Lakota",
+    "v": "lakota"
+}, {
+    "t": "Ladino (Judeo-Spanish)",
+    "v": "ladino(judeospanish)"
+}, {
+    "t": "Ladin",
+    "v": "ladin"
+}, {
+    "t": "Lau",
+    "v": "lau"
+}, {
+    "t": "Limburgish",
+    "v": "limburgish"
+}, {
+    "t": "Litzlitz (Naman)",
+    "v": "litzlitz(naman)"
+}, {
+    "t": "Lombard",
+    "v": "lombard"
+}, {
+    "t": "Macedonian",
+    "v": "macedonian"
+}, {
+    "t": "Malagasy",
+    "v": "malagasy"
+}, {
+    "t": "Malay",
+    "v": "malay"
+}, {
+    "t": "Malayalam",
+    "v": "malayalam"
+}, {
+    "t": "Maltese",
+    "v": "maltese"
+}, {
+    "t": "Marshallese",
+    "v": "marshallese"
+}, {
+    "t": "Maori",
+    "v": "maori"
+}, {
+    "t": "Marathi",
+    "v": "marathi"
+}, {
+    "t": "Mongolian",
+    "v": "mongolian"
+}, {
+    "t": "Maasai",
+    "v": "maasai"
+}, {
+    "t": "Maithili",
+    "v": "maithili"
+}, {
+    "t": "Mamuju",
+    "v": "mamuju"
+}, {
+    "t": "Manchu",
+    "v": "manchu"
+}, {
+    "t": "Mandingo (Madinka)",
+    "v": "mandingo(madinka)"
+}, {
+    "t": "Manggarai",
+    "v": "manggarai"
+}, {
+    "t": "Mapudungun",
+    "v": "mapudungun"
+}, {
+    "t": "Marri Ngarr",
+    "v": "marringarr"
+}, {
+    "t": "Masalit",
+    "v": "masalit"
+}, {
+    "t": "Mekeo",
+    "v": "mekeo"
+}, {
+    "t": "Mexican Sign Language (LSM)",
+    "v": "mexicansignlanguage(lsm)"
+}, {
+    "t": "Minangkabau",
+    "v": "minangkabau"
+}, {
+    "t": "Mingrelian",
+    "v": "mingrelian"
+}, {
+    "t": "Mirandese",
+    "v": "mirandese"
+}, {
+    "t": "Miyako",
+    "v": "miyako"
+}, {
+    "t": "Mon",
+    "v": "mon"
+}, {
+    "t": "Maldivian (Dhivehi)",
+    "v": "maldivian(dhivehi)"
+}, {
+    "t": "Mauritian Creole",
+    "v": "mauritiancreole"
+}, {
+    "t": "Mazatec",
+    "v": "mazatec"
+}, {
+    "t": "Montenegrin",
+    "v": "montenegrin"
+}, {
+    "t": "Mnong",
+    "v": "mnong"
+}, {
+    "t": "Nahuatl",
+    "v": "nahuatl"
+}, {
+    "t": "Nepali",
+    "v": "nepali"
+}, {
+    "t": "Norwegian",
+    "v": "norwegian"
+}, {
+    "t": "Nambya",
+    "v": "nambya"
+}, {
+    "t": "Neapolitan (Napoletano)",
+    "v": "neapolitan(napoletano)"
+}, {
+    "t": "Natchez",
+    "v": "natchez"
+}, {
+    "t": "Navajo (Diné bizaad)",
+    "v": "navajo(dinebizaad)"
+}, {
+    "t": "Ndebele",
+    "v": "ndebele"
+}, {
+    "t": "Neverver",
+    "v": "neverver"
+}, {
+    "t": "Newar",
+    "v": "newar"
+}, {
+    "t": "Nigerian Pidgin",
+    "v": "nigerianpidgin"
+}, {
+    "t": "North Efate (Nakanamanga)",
+    "v": "northefate(nakanamanga)"
+}, {
+    "t": "Nubian (Midob)",
+    "v": "nubian(midob)"
+}, {
+    "t": "Nubian (Nobiin)",
+    "v": "nubian(nobiin)"
+}, {
+    "t": "Nuer",
+    "v": "nuer"
+}, {
+    "t": "Ojibwe",
+    "v": "ojibwe"
+}, {
+    "t": "Occitan",
+    "v": "occitan"
+}, {
+    "t": "Ogiek (Akiek)",
+    "v": "ogiek(akiek)"
+}, {
+    "t": "Okinawan",
+    "v": "okinawan"
+}, {
+    "t": "Oromo",
+    "v": "oromo"
+}, {
+    "t": "Pashto",
+    "v": "pashtu"
+}, {
+    "t": "Persian (Farsi)",
+    "v": "persian(farsi)"
+}, {
+    "t": "Polish",
+    "v": "polish"
+}, {
+    "t": "Punjabi",
+    "v": "punjabi"
+}, {
+    "t": "Papiamento",
+    "v": "papiamento"
+}, {
+    "t": "Pa'o",
+    "v": "pao"
+}, {
+    "t": "Palauan",
+    "v": "palauan"
+}, {
+    "t": "Quechua",
+    "v": "quichua"
+}, {
+    "t": "Qashqai",
+    "v": "qashqai"
+}, {
+    "t": "Rohingya",
+    "v": "rohingya"
+}, {
+    "t": "Romanian",
+    "v": "romanian"
+}, {
+    "t": "Romani (Balkan)",
+    "v": "romani(balkan)"
+}, {
+    "t": "Romani (Sinte)",
+    "v": "romani(sinte)"
+}, {
+    "t": "Romani (Vlax)",
+    "v": "romani(vlax)"
+}, {
+    "t": "Romansch",
+    "v": "romansch"
+}, {
+    "t": "Samoan",
+    "v": "samoan"
+}, {
+    "t": "Sanskrit",
+    "v": "sanskrit"
+}, {
+    "t": "Serbian",
+    "v": "serbian"
+}, {
+    "t": "Sfyria",
+    "v": "sfyria"
+}, {
+    "t": "Sign Language",
+    "v": "signlanguage"
+}, {
+    "t": "International Sign (IS)",
+    "v": "signlanguage(international)"
+}, {
+    "t": "American Sign Language (ASL)",
+    "v": "signlanguage(american)"
+}, {
+    "t": "British Sign Language (BSL)",
+    "v": "signlanguage(british)"
+}, {
+    "t": "Sindhi",
+    "v": "sindhi"
+}, {
+    "t": "Sinhala",
+    "v": "sinhala"
+}, {
+    "t": "Sicilian",
+    "v": "sicilian"
+}, {
+    "t": "Silbo Gomero",
+    "v": "silbogomero"
+}, {
+    "t": "Slovak",
+    "v": "slovak"
+}, {
+    "t": "Slovenian",
+    "v": "slovenian"
+}, {
+    "t": "Somali",
+    "v": "somali"
+}, {
+    "t": "Swahili",
+    "v": "swahili"
+}, {
+    "t": "Swedish",
+    "v": "swedish"
+}, {
+    "t": "Scots",
+    "v": "scots"
+}, {
+    "t": "Swiss German",
+    "v": "swissgerman"
+}, {
+    "t": "Syriac",
+    "v": "syriac"
+}, {
+    "t": "Sa",
+    "v": "sa"
+}, {
+    "t": "Saami (Kildin)",
+    "v": "saami(kildin)"
+}, {
+    "t": "Saami (Lule)",
+    "v": "saami(lule)"
+}, {
+    "t": "Saami (Northern)",
+    "v": "saami(northern)"
+}, {
+    "t": "Sardinian",
+    "v": "sardinian"
+}, {
+    "t": "Sekani",
+    "v": "sekani"
+}, {
+    "t": "Sena",
+    "v": "sena"
+}, {
+    "t": "Shan",
+    "v": "shan"
+}, {
+    "t": "Sherpa",
+    "v": "sherpa"
+}, {
+    "t": "Shona",
+    "v": "shona"
+}, {
+    "t": "Shona (Ndau)",
+    "v": "shona(ndau)"
+}, {
+    "t": "Shoshoni",
+    "v": "shoshoni"
+}, {
+    "t": "Shumashti",
+    "v": "shumashti"
+}, {
+    "t": "Sotho",
+    "v": "sotho"
+}, {
+    "t": "Sundanese",
+    "v": "sundanese"
+}, {
+    "t": "Swazi",
+    "v": "swazi"
+}, {
+    "t": "Swiss-French Sign Language",
+    "v": "swissfrenchsignlanguage"
+}, {
+    "t": "Swiss-German Sign Language",
+    "v": "swissgermansignlanguage"
+}, {
+    "t": "Tajik",
+    "v": "tajik"
+}, {
+    "t": "Berber (Tamazight)",
+    "v": "tamazight"
+}, {
+    "t": "Tamil",
+    "v": "tamil"
+}, {
+    "t": "Tatar",
+    "v": "tatar"
+}, {
+    "t": "Telugu",
+    "v": "telugu"
+}, {
+    "t": "Thai",
+    "v": "thai"
+}, {
+    "t": "Tibetan",
+    "v": "tibetan"
+}, {
+    "t": "Tigrinya",
+    "v": "tigrinya"
+}, {
+    "t": "Turkish",
+    "v": "turkish"
+}, {
+    "t": "Turkmen",
+    "v": "turkmen"
+}, {
+    "t": "Tutong",
+    "v": "tutong"
+}, {
+    "t": "Toki Pona",
+    "v": "tokipona"
+}, {
+    "t": "Tamang",
+    "v": "tamang"
+}, {
+    "t": "Tharu",
+    "v": "tharu"
+}, {
+    "t": "Tlingit",
+    "v": "tlingit"
+}, {
+    "t": "Tongan",
+    "v": "tongan"
+}, {
+    "t": "Tsonga (Xitsonga)",
+    "v": "tsonga(xitsonga)"
+}, {
+    "t": "Tswana",
+    "v": "tswana"
+}, {
+    "t": "Tz’utujil",
+    "v": "tzutujil"
+}, {
+    "t": "Ukrainian",
+    "v": "ukrainian"
+}, {
+    "t": "Urdu",
+    "v": "urdu"
+}, {
+    "t": "Uyghur",
+    "v": "uyghur"
+}, {
+    "t": "Uzbek",
+    "v": "uzbek"
+}, {
+    "t": "Vietnamese",
+    "v": "vietnamese"
+}, {
+    "t": "Venda",
+    "v": "venda"
+}, {
+    "t": "Welsh",
+    "v": "welsh"
+}, {
+    "t": "Wolof",
+    "v": "wolof"
+}, {
+    "t": "Waray",
+    "v": "waray"
+}, {
+    "t": "Wayuu",
+    "v": "wayuu"
+}, {
+    "t": "Wyandot",
+    "v": "wyandot"
+}, {
+    "t": "Xhosa",
+    "v": "xhosa"
+}, {
+    "t": "Yakut",
+    "v": "yakut"
+}, {
+    "t": "Yiddish",
+    "v": "yiddish"
+}, {
+    "t": "Yoruba",
+    "v": "yoruba"
+}, {
+    "t": "Yucatec Maya",
+    "v": "yucatecmaya"
+}, {
+    "t": "Yola",
+    "v": "yola"
+}, {
+    "t": "Yugoslavian Sign Language",
+    "v": "yugoslaviansignlanguage"
+}, {
+    "t": "Zhuang",
+    "v": "zhuang"
+}, {
+    "t": "Zulu",
+    "v": "zulu"
+}, {
+    "t": "Zaghawa (Beria)",
+    "v": "zaghawa(beria)"
+}, {
+    "t": "Zapotec",
+    "v": "zapotec"
+}, {
+    "t": "Zarma",
+    "v": "zarma"
+}, {
+    "t": "Zaza (Northern)",
+    "v": "zaza(northern)"
+}, {
+    "t": "Odia",
+    "v": "odia"
+}, {
+    "t": "Oneida",
+    "v": "oneida"
+}, {
+    "t": "Other",
+    "v": "other"
+}]

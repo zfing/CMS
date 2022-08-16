@@ -1,0 +1,12 @@
+hr::before {
+    content: "To download data columns";
+    z-index:2;
+    background:white;
+    font-weight: 600;
+}
+hr{
+    text-align:center;
+    line-height:0px;
+    background:gray;
+  }
+  

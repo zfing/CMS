@@ -1,0 +1,84 @@
+.margin-10-20-0-10 {
+  margin: 10px 20px 0 10px;
+}
+.margin-10-10-0-20 {
+  margin: 10px 10px 0 20px;
+}
+.margin-10-10-0-0 {
+  margin: 10px 10px 0 0px;
+}
+.margin-t-10{
+  margin-top: 10px;
+}
+.width-250 {
+  width: 250px;
+}
+.margin-t--24 {
+  margin-top: -24px;
+}
+.frank-end {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.frank-start {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.frank-end-vertical-start {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+/* .basic-information {
+  border-bottom: dashed 1px #cccccc;
+  padding-bottom: 20px;
+}
+
+.user-condition,
+.usetype-voucher,
+.purchase-condition,
+.validate-condition,
+.time-condition {
+  border-bottom: dashed 1px #cccccc;
+  padding-bottom: 10px;
+} */
+
+.ant-descriptions-row td div {
+  padding: 0 80px;
+}
+
+.padding-left-10 {
+  padding-left: 10px;
+}
+
+/* .ant-table div,
+.ant-table th {
+  font-size: 9px !important;
+} */
+.text-semibold {
+  font-weight: 600;
+  font-size: 15px;
+}
+.form-title-top {
+  display: block;
+  padding: 8px 0;
+  border-top: 1px dashed rgba(0, 0, 0, .2);
+  font-size: 15px;
+  font-weight: 300;
+  color: #262626;
+  margin-top: 10px
+}
+.padding-right-5 {
+    padding-right: 5px;
+}
+.padding-left-5 {
+    padding-left: 5px;
+}
+.funding .ant-table-tbody > tr > td:last-child {
+  text-align: center;
+}
