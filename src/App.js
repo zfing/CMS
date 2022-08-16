@@ -14,7 +14,7 @@ function App() {
       default:
         return state
     }
-  }, JSON.parse(localStorage.getItem('fms.user') || "{}"))
+  }, JSON.parse(localStorage.getItem('cms.user') || "{}"))
   
   return <FMSContext.Provider value={{ FMSstate, dispatch }}>
     <Router className="app" basename="/">

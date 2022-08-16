@@ -8,12 +8,12 @@ const AuthRouter = ({ component: Component, ...rest}) => {
 
 	// 登录过期验证
   // let isLogin = false;
-	// if (new Date().getTime() > localStorage.getItem('fms.expiry-date')) {
+	// if (new Date().getTime() > localStorage.getItem('cms.expiry-date')) {
 	// 	window.alert('Your token is invalid, please login again')
 	// 	localStorage.clear();
 	// 	isLogin = false
 	// } else {
-	// 	if (localStorage.getItem('fms.token')) {
+	// 	if (localStorage.getItem('cms.token')) {
 	// 		isLogin = true
 	// 	}
 	// }

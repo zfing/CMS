@@ -19,7 +19,7 @@ api.interceptors.request.use(
       ...config,
       headers: {
         ...config.headers,
-        "X-Token": localStorage.getItem("fms.token"),
+        "X-Token": localStorage.getItem("cms.token"),
       },
       //get
       params: {
@@ -45,8 +45,8 @@ api.interceptors.response.use(response => response,
       localStorage.clear()
       return window.location.href = '/login';
     } else if (status === 401) {
-        localStorage.removeItem("fms.user");
-        localStorage.removeItem("fms.token");
+        localStorage.removeItem("cms.user");
+        localStorage.removeItem("cms.token");
         // Cookies.remove("isLogin");
         window.location.href = "/login";
     } else {

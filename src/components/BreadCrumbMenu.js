@@ -29,7 +29,7 @@ const voucherBreadcrumbNameMap = {
 }
 const systemBreadcrumbNameMap = {
     '/system/administrators': 'ITALKI Administrator',
-    '/system/operation-log': 'FMS Operation Log'
+    '/system/operation-log': 'CMS Operation Log'
 }
 const creditBreadcrumbNameMap = {
     '/credit/purchase-list': 'Purchase Records',

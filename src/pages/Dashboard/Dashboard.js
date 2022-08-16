@@ -1,6 +1,6 @@
 import React from 'react';
 const Dashboard = () => {
-    const user = JSON.parse(localStorage.getItem('fms.user'))
+    const user = JSON.parse(localStorage.getItem('cms.user'))
     return (
         <div>
             <div className="padding-left-30 dashboard-font">
@@ -8,7 +8,7 @@ const Dashboard = () => {
                 <br />
                 {user?.username}
                 {user?.italki_email
-                    ? ` / ${JSON.parse(localStorage.getItem('fms.user'))['italki_email']}` 
+                    ? ` / ${JSON.parse(localStorage.getItem('cms.user'))['italki_email']}` 
                     : null
                 }
             </div>

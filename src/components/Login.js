@@ -35,9 +35,9 @@ const Login = (props) => {
           });
           let expiryDate = new Date().getTime() + 7 * 24 * 60 * 60 * 1000;
           // Cookies.set('isLogin', '1', { expires: 1 });
-          localStorage.setItem("fms.user", JSON.stringify(res.data.data));
-          localStorage.setItem("fms.token", res.headers["x-token"]);
-          localStorage.setItem("fms.expiry-date", expiryDate);
+          localStorage.setItem("cms.user", JSON.stringify(res.data.data));
+          localStorage.setItem("cms.token", res.headers["x-token"]);
+          localStorage.setItem("cms.expiry-date", expiryDate);
           props.history.push("/dashboard");
           notification.info({
             message: "Login Success",

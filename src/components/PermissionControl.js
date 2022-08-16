@@ -2,7 +2,7 @@ const HasPermi = permissionId => {
     let permission = false;
     let testId = parseInt(permissionId);
     let permissionIdArr = [];
-    let localStorageMenuObj = (JSON.parse(localStorage.getItem('fms.user'))) ? JSON.parse(localStorage.getItem('fms.user'))['menus_obj_s'] : [];
+    let localStorageMenuObj = (JSON.parse(localStorage.getItem('cms.user'))) ? JSON.parse(localStorage.getItem('cms.user'))['menus_obj_s'] : [];
     localStorageMenuObj.map((selObj) => {
         permissionIdArr.push(selObj.id);
         return permissionIdArr;

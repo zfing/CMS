@@ -60,7 +60,7 @@ const BatchUpload = forwardRef((props, ref) => {
     axios.post(`${process.env.REACT_APP_BASE_URL}/withdraw/teacher-withdrawals`,qs.stringify(deleteEmptyObj(data)),{
       'headers': {
         "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-        "X-Token": localStorage.getItem("fms.token"),
+        "X-Token": localStorage.getItem("cms.token"),
         'Accept': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
       },
       responseType: "blob"

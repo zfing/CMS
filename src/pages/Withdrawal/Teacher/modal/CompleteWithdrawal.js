@@ -55,7 +55,7 @@ const CompleteWithdrawal = forwardRef((props, ref) => {
             data?.admindisposalwithdraw_obj?.italki_fee
           ),
           pay_date: moment(),
-          user: JSON.parse(localStorage.getItem("fms.user"))?.username,
+          user: JSON.parse(localStorage.getItem("cms.user"))?.username,
           italki_fee: commonFilter(
             "centToUsd",
             data?.admindisposalwithdraw_obj?.italki_fee
@@ -90,7 +90,7 @@ const CompleteWithdrawal = forwardRef((props, ref) => {
       money: money * 100,
       currency,
       user_id: data?.user_id,
-      pay_user: JSON.parse(localStorage.getItem("fms.user"))?.username,
+      pay_user: JSON.parse(localStorage.getItem("cms.user"))?.username,
       is_mass: checkedMass ? 1 : 0,
       is_immediate: checkedMass ? 1 : 0,
       remark

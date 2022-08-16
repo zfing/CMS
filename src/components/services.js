@@ -3,7 +3,7 @@ import api from "./Api";
 
 // 登录
 const login = (params) => {
-  return axios.post(`${process.env.REACT_APP_BASE_URL}/fms/login`, params, {
+  return axios.post(`${process.env.REACT_APP_BASE_URL}/cms/login`, params, {
     headers: {
       "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
     },
@@ -12,7 +12,7 @@ const login = (params) => {
 // 修改密码
 const changepwd = (postData) => {
   return api({
-    url: `/fms/inner-system-data`,
+    url: `/cms/inner-system-data`,
     method: 'post',
     data: postData
   })
